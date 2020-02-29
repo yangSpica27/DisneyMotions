@@ -1,8 +1,7 @@
 
 <h1 align="center">DisneyMotions</h1></br>
 <p align="center">  
-A demo Disney app using <a href="https://material.io/design/motion/the-motion-system.html" target="_blank"> transformation motions </a> based on MVVM architecture.<br>
-The motion system is included in the 1.2.0-alpha05 released material version.
+迪士尼动画的演示程序
 </p>
 </br>
 
@@ -13,10 +12,10 @@ The motion system is included in the 1.2.0-alpha05 released material version.
   <a href="https://github.com/skydoves"><img alt="License" src="https://img.shields.io/static/v1?label=GitHub&message=skydoves&color=C51162"/></a> 
 </p>
 
-## Download
-Go to the [Releases](https://github.com/skydoves/DisneyMotions/releases) to download the lastest APK.
+## 下载
+最终版本下载地址： [Releases](https://github.com/skydoves/DisneyMotions/releases) 
 
-## Screeshots
+## 预览
 <p align="center">
 <img src="/preview/preview0.gif" width="32%"/>
 <img src="/preview/preview1.gif" width="32%"/>
@@ -25,7 +24,7 @@ Go to the [Releases](https://github.com/skydoves/DisneyMotions/releases) to down
 
 
 
-## Tech stack & Open-source libraries
+## 开源相关
 - Minimum SDK level 21
 - 100% [Kotlin](https://kotlinlang.org/) based + [Coroutines](https://github.com/Kotlin/kotlinx.coroutines)
 - JetPack
@@ -46,9 +45,6 @@ Go to the [Releases](https://github.com/skydoves/DisneyMotions/releases) to down
 - [Timber](https://github.com/JakeWharton/timber) - logging
 - Ripple animation, Shared element container transform/transition
 
-## Find this repository useful? :heart:
-Support it by joining __[stargazers](https://github.com/skydoves/DisneyMotions/stargazers)__ for this repository. :star: <br>
-And __[follow](https://github.com/skydoves)__ me for my next creations! 🤩
 
 # License
 ```xml
